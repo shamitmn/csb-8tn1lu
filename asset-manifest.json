@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://shamitmn.github.io/csb-8tn1lu/static/js/main.5251222b.chunk.js",
+    "main.js.map": "https://shamitmn.github.io/csb-8tn1lu/static/js/main.5251222b.chunk.js.map",
+    "runtime-main.js": "https://shamitmn.github.io/csb-8tn1lu/static/js/runtime-main.295c83fc.js",
+    "runtime-main.js.map": "https://shamitmn.github.io/csb-8tn1lu/static/js/runtime-main.295c83fc.js.map",
+    "static/js/2.04b38954.chunk.js": "https://shamitmn.github.io/csb-8tn1lu/static/js/2.04b38954.chunk.js",
+    "static/js/2.04b38954.chunk.js.map": "https://shamitmn.github.io/csb-8tn1lu/static/js/2.04b38954.chunk.js.map",
+    "index.html": "https://shamitmn.github.io/csb-8tn1lu/index.html",
+    "precache-manifest.05eeadf5d35e43c0020aef1e0913ecd9.js": "https://shamitmn.github.io/csb-8tn1lu/precache-manifest.05eeadf5d35e43c0020aef1e0913ecd9.js",
+    "service-worker.js": "https://shamitmn.github.io/csb-8tn1lu/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.295c83fc.js",
+    "static/js/2.04b38954.chunk.js",
+    "static/js/main.5251222b.chunk.js"
+  ]
+}
